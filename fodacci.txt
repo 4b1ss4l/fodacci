@@ -1,4 +1,3 @@
-RAS ULTIMATE
 Carlos Augusto Mateus Altieri
 Kevyn de Souza Waldhelm
 Anderson Rodrigues da Silva
@@ -39,7 +38,6 @@ Nicole Pedro De Moraes
 Nicoly Dos Santos Tobia
 Pedro Henrique De Aguia
 Piettro Ramos Da Silva
-Public
 Rafael Felipe Medeiros
 Raquelli Tomaz De Souza
 RENATO U BIRAJARA D O SSA
@@ -48,5 +46,5 @@ Tallya Teixeira De Cama
 Thalya Ramos De Aguiar
 Tiago Luiz Domingues Ma
 Victória Kusnier De Lar
-Yumi Arcini Fernandes Y
 Yuri Vinicius Barbosa D
+
